@@ -19,3 +19,4 @@ for i in range(len(table)):
             cnt += 1
 
 print(cnt)
+###
